@@ -1,0 +1,2 @@
+# ETG_Inventory_management
+Mall inventory_management
